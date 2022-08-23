@@ -1,0 +1,12 @@
+'A'
+{'B': '-A+B+A-', 'A': ('+B-A-B+', True)}
+7
+60.0
+True
+lambda *a: (__import__("random").randint(0, 255) for _ in range(3))
+(0, 0, 0)
+'auto'
+10
+'full-screen'
+0.0
+(0, 0)

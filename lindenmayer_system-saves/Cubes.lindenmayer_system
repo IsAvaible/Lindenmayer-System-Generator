@@ -1,0 +1,12 @@
+'F--F--F'
+{'F': 'F+F--F-F'}
+3
+60.0
+False
+lambda *a: (__import__("random").randint(0, 255) for _ in range(3))
+(0, 0, 0)
+1.0
+20
+None
+0.0
+(0, 0)

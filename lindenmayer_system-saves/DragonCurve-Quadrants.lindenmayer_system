@@ -1,0 +1,12 @@
+'FL'
+{'F': 'F', 'L': 'L+RF+', 'R': '-FL-R'}
+14
+90.0
+True
+lambda x, y, h, *a: (int(v)%255 for v in (x,y,h))
+(0, 0, 0)
+'auto'
+10
+'full-screen'
+0.0
+(0, 0)

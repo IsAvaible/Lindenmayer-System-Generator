@@ -1,0 +1,12 @@
+'F--F--F'
+{'F': 'F+F--F+F'}
+6
+60.0
+True
+lambda x, y, h, i_d, exc, *a: (int((abs(exc[0][0]) + int(x)) / abs(exc[0][0] - exc[1][0])* 255), int((abs(exc[0][1]) + int(y)) / abs(exc[0][1] - exc[1][1])* 255), int(h)%255)
+(0, 0, 0)
+'auto'
+10
+'full-screen'
+0.0
+(0, 0)
